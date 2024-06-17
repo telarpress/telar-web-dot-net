@@ -1,0 +1,8 @@
+/certs/*
+/micros/**/bin/*
+/micros/**/obj/Debug/*
+/micros/**/obj/Release/*
+/micros/**/obj/project.nuget.cache
+
+
+
